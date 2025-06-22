@@ -20,7 +20,7 @@ header h1 {
 }
 
 button {
-  background-color: #ffa41c;
+  background-color: #00FF00;
   border: none;
   padding: 0.5rem 1rem;
   cursor: pointer;
@@ -30,7 +30,7 @@ button {
 }
 
 button:hover {
-  background-color: #ff8f00;
+  background-color: #00FF00;
 }
 
 #tela-login,
@@ -98,7 +98,7 @@ button:hover {
 .produto strong {
   margin: 0.5rem 0;
   font-size: 1.1rem;
-  color: #b12704;
+  color: #000000;
 }
 
 #itens-carrinho {
